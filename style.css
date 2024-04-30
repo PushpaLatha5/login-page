@@ -1,0 +1,53 @@
+.card {
+    width: 350px;
+    padding: 10px;
+    margin: 50px auto;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.img {
+    width: 80%;
+    margin-right: 80%;
+    margin-left: 40px;
+
+}
+
+.head {
+    font-size: 20px;
+}
+
+.input {
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 16px;
+    box-sizing: border-box;
+    border-radius: 12px;
+    border: 1px solid lightgray;
+    font-size: 16px;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    padding: 16px 30px;
+    border-radius: 50px;
+    border: none;
+    font-size: 16px;
+    width: 60%;
+    box-sizing: border-box;
+}
+
+.para {
+    font-size: 15px;
+    color: rgb(122, 119, 119);
+}
+
+.span {
+    text-decoration: underline;
+}
+
+.para1 {
+    color: rgb(122, 119, 119);
+    font-size: 12px;
+}
